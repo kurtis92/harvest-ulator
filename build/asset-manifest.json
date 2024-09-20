@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/harvest-ulator/static/css/main.4989062f.css",
+    "main.js": "/harvest-ulator/static/js/main.c66c8357.js",
+    "static/js/453.a3a08843.chunk.js": "/harvest-ulator/static/js/453.a3a08843.chunk.js",
+    "index.html": "/harvest-ulator/index.html",
+    "main.4989062f.css.map": "/harvest-ulator/static/css/main.4989062f.css.map",
+    "main.c66c8357.js.map": "/harvest-ulator/static/js/main.c66c8357.js.map",
+    "453.a3a08843.chunk.js.map": "/harvest-ulator/static/js/453.a3a08843.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4989062f.css",
+    "static/js/main.c66c8357.js"
+  ]
+}
